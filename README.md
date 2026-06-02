@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mathuprasanth R K
 
-🎓 M.Sc. IT — CGPA 8.5  ·  Software Developer  ·  📍 Coimbatore, India  ·  📬 mathuprasanth9908@gmail.com
+🎓 M.Sc. IT — CGPA 8.6  ·  Software Developer  ·  📍 Coimbatore, India  ·  📬 mathuprasanth9908@gmail.com
 
 > Building full-stack web apps with Python & Flask and applying machine learning to real-world problems. Built a phishing URL detector with **98% accuracy** using ensemble learning. Open to developer roles in South India.
 
